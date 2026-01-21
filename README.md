@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Fernando Patiño
 
-<!--
-**Ferleo626/Ferleo626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN**, con formación técnica previa en electricidad y refrigeración.
 
-Here are some ideas to get you started:
+Actualmente me encuentro en búsqueda de mi **primera oportunidad en el área IT**, preferentemente en modalidad **home office**, para seguir desarrollándome profesionalmente y continuar mis estudios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- HTML5
+- CSS3
+- JavaScript
+- Git / GitHub
+- Visual Studio Code
+
+## 📌 Proyectos destacados
+- Sitio Web Informativo  
+- Ejercicios de Lógica en JavaScript  
+- Prácticas de Programación – UTN  
+
+## 📫 Contacto
+- Email: patio.fernando9@gmail.com
