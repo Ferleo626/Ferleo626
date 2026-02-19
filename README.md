@@ -12,9 +12,9 @@ Actualmente me encuentro en búsqueda de mi **primera oportunidad en el área IT
 - Visual Studio Code
 
 ## 📌 Proyectos destacados
-- Sitio Web Informativo  
-- Ejercicios de Lógica en JavaScript  
-- Prácticas de Programación – UTN  
+ - Calculadora web
+ - To do list profesional
+ - Vapesublimados 
 
 ## 📫 Contacto
 - Email: patio.fernando9@gmail.com
